@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
-*Description: main - prints out a string.
+*Description: Main - prints out a string.
 *Return :Always (Success);
 */
 int main(void)
