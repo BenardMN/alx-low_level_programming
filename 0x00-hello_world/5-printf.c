@@ -1,7 +1,8 @@
 #include<stdio.h>
 /**
-* Description: main - prints out a string.
-* Return : Always (Success);
+* main - Entry point
+*
+* Return: Always 0 (Succes)
 */
 int main(void)
 {
