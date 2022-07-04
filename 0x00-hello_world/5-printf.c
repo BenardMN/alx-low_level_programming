@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
-*Description: Main - prints out a string.
-*Return :Always (Success);
+* Description: main - prints out a string.
+* Return : Always (Success);
 */
 int main(void)
 {
